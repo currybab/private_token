@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": true,
+    "C_Cpp.configurationWarnings": "Disabled",
+    "editor.tabSize": 4,
+    "files.associations": {
+        "iosfwd": "cpp",
+        "string": "cpp"
+    }
+}
